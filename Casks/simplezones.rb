@@ -1,8 +1,8 @@
 cask "simplezones" do
-  version "0.1.0"
-  sha256 "e420366df849746f8535bb3bbc9326af51eb50c479371ff725bd95cc4b3bda36"
+  version "0.1.1"
+  sha256 "4025438092234974d07012b6db1a0d95dbdc41a9824a1747180b195edb02255a"
 
-  url "https://github.com/ada-bee/simple-zones/releases/download/v#{version}/SimpleZones.zip",
+  url "https://github.com/ada-bee/simple-zones/releases/download/v0.1.1/SimpleZones.zip",
       verified: "github.com/ada-bee/simple-zones/"
   name "SimpleZones"
   desc "FancyZones-style window snapping utility for macOS"

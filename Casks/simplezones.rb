@@ -1,8 +1,8 @@
 cask "simplezones" do
-  version "0.2.0"
-  sha256 "96a363f1e794b19ec2c06e4a3579d0fe7707139c3151b7745b4152ba2ee689e4"
+  version "0.2.1"
+  sha256 "d3ececbbf1433e9c7845f527c41b15c4f027395c42c86133f1c555a2238ef83c"
 
-  url "https://github.com/ada-bee/SimpleZones/releases/download/v0.2.0/SimpleZones.app.zip"
+  url "https://github.com/ada-bee/SimpleZones/releases/download/v0.2.1/SimpleZones.app.zip"
   name "SimpleZones"
   homepage "https://github.com/ada-bee/SimpleZones"
 

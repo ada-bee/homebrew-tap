@@ -1,6 +1,6 @@
 cask "gamestream" do
-  version "0.2.1"
-  sha256 "082ee9699a12ed44fc1e2e4a70891e082d1e7e06025ed3e3970591f202438b9e"
+  version "0.2.2"
+  sha256 "af2a0ef4627e69f473fd67f7b4bfbdb781fed7cd41e54306f700c98dcf6b489f"
 
   url "https://github.com/ada-bee/moonlight-swift/releases/download/v#{version}/GameStream-#{version}.dmg"
   name "GameStream"
